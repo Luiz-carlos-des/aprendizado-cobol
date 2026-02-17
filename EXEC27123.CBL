@@ -1,7 +1,7 @@
       ******************************************************************
       * Author:LUIZ CARLOS SANTOS
       * Date:
-      * Purpose:APRENDIZADO COBOL INICIAL
+      * Purpose:APRENDIZADO COBOL INICIAL.
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
